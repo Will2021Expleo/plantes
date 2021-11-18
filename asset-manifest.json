@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/plantes/static/css/main.a6508ce7.chunk.css",
+    "main.js": "/plantes/static/js/main.4201e873.chunk.js",
+    "main.js.map": "/plantes/static/js/main.4201e873.chunk.js.map",
+    "runtime-main.js": "/plantes/static/js/runtime-main.2b3230ff.js",
+    "runtime-main.js.map": "/plantes/static/js/runtime-main.2b3230ff.js.map",
+    "static/js/2.d74142f7.chunk.js": "/plantes/static/js/2.d74142f7.chunk.js",
+    "static/js/2.d74142f7.chunk.js.map": "/plantes/static/js/2.d74142f7.chunk.js.map",
+    "index.html": "/plantes/index.html",
+    "static/css/main.a6508ce7.chunk.css.map": "/plantes/static/css/main.a6508ce7.chunk.css.map",
+    "static/js/2.d74142f7.chunk.js.LICENSE.txt": "/plantes/static/js/2.d74142f7.chunk.js.LICENSE.txt",
+    "static/media/basil.be00474e.jpg": "/plantes/static/media/basil.be00474e.jpg",
+    "static/media/cactus.a71c2062.jpg": "/plantes/static/media/cactus.a71c2062.jpg",
+    "static/media/calathea.455c33e2.jpg": "/plantes/static/media/calathea.455c33e2.jpg",
+    "static/media/lyrata.2e915120.jpg": "/plantes/static/media/lyrata.2e915120.jpg",
+    "static/media/mint.b83a3d2e.jpg": "/plantes/static/media/mint.b83a3d2e.jpg",
+    "static/media/monstera.6257bc6b.jpg": "/plantes/static/media/monstera.6257bc6b.jpg",
+    "static/media/olivier.b2908b40.jpg": "/plantes/static/media/olivier.b2908b40.jpg",
+    "static/media/pothos.d72dc0ac.jpg": "/plantes/static/media/pothos.d72dc0ac.jpg",
+    "static/media/succulent.f4329849.jpg": "/plantes/static/media/succulent.f4329849.jpg",
+    "static/media/sun.26fb5ace.svg": "/plantes/static/media/sun.26fb5ace.svg",
+    "static/media/water.cceb486f.svg": "/plantes/static/media/water.cceb486f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b3230ff.js",
+    "static/js/2.d74142f7.chunk.js",
+    "static/css/main.a6508ce7.chunk.css",
+    "static/js/main.4201e873.chunk.js"
+  ]
+}
